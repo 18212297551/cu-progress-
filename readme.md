@@ -2,7 +2,7 @@
 
 *movable-area + movable-view + css 模拟进度条，拖动条，相比于官方progress和slider功能更完善，可自定义程度更高*
 
-![image](https://raw.githubusercontent.com/18212297551/cu-progress/master/6.gif)
+![image](https://github.com/18212297551/cu-progress-demo/blob/master/demo.gif)
 + 属性
 
     |参数|默认值|类型|说明|
